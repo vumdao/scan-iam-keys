@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://dev.to/vumdao">
-    <img alt="Scan AWS Keys For A Commit" src="https://github.com/vumdao/scan-iam-keys/scaniamkeys.png" width="500" />
+    <img alt="Scan AWS Keys For A Commit" src="https://github.com/vumdao/scan-iam-keys/blob/master/scaniamkeys.png?raw=true" width="500" />
   </a>
 </p>
 <h1 align="center">
